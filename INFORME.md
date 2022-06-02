@@ -1,4 +1,4 @@
-## Práctica 8
+# Práctica 8
 
 ## Materiales
 - ESP32
